@@ -1,0 +1,2 @@
+# shop-management
+Minor Project
